@@ -1,0 +1,10 @@
+.git
+.gitignore
+README.md
+.github
+node_modules
+.env
+*.log
+dist
+build
+*.tsbuildinfo
